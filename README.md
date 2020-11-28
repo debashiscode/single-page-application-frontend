@@ -5,9 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 **Note: if npm is not installed before proceeding with further steps**
 
 To run using docker 
+1. docker run -p 8080:8080 ghosh93/simpleapplicationbackend
 
-
- docker run \
+ 2. docker run \
     -it \
     --rm \
     -v ${PWD}:/app \
