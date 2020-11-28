@@ -1,0 +1,63 @@
+.postsBody {
+  background-color: #f2f7f7;
+  
+}
+
+
+.spa-label {
+  font-size: large;
+  color: #250d0d;
+  text-align: center;
+}
+
+.filter {
+  width: 240px;
+}
+
+.no-margin {
+  margin: 0;
+}
+
+.logout {
+  width: auto;
+  padding: 4px;
+  align-self: flex-end;
+}
+
+.filterWrapper {
+  width: 100%;
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+  align-items: baseline;
+}
+
+select, span {
+  padding: 4px 12px;
+  position: absolute;
+  right: 0;
+  bottom: 8px;
+}
+
+span {
+  right: 56px;
+}
+
+table {
+  border-collapse: collapse;
+  padding: 0 0 0 16px;
+  width: 100%;
+}
+th{
+  color: antiquewhite;
+  background-color: black;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: aliceblue;
+}
