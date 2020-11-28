@@ -18,6 +18,11 @@ To run using docker
 
 or
 
+once it succesfully run -
+try to access this url-
+http://localhost:3001/posts
+
+
 ### `npm i`
 to install all the react depedency modules
 
